@@ -21,7 +21,7 @@ Rotate an array to the right by a given number of steps.
 - [x] 1. [FrogJmp](https://codility.com/demo/results/training8KPF38-YJK/) _[100%]_  
 Count minimal number of jumps from position X to Y.
 
-- [ ] 2. PermMissingElem  
+- [x] 2. [PermMissingElem](https://codility.com/demo/results/trainingFQZA7Q-R7F/) _[100%]_  
 Find the missing element in a given permutation.
 
 - [ ] 3. TapeEquilibrium  
