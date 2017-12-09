@@ -1,6 +1,7 @@
 # codility
 My solutions for the [codility lessons](https://codility.com/programmers/lessons)
 
+---
 
 ### Lesson 1 - _Iterations_
 - [x] 1. [Binary Gap](https://codility.com/demo/results/trainingB9U8TT-M52/) _[100%]_  
@@ -30,28 +31,32 @@ Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 ---
 
 ### Lesson 4 - _Couting Elements_
-- [x] 1. [MissingInteger](https://codility.com/demo/results/trainingR6QPGR-RG2/) _[100%]_  
+- [x] 1. [PermCheck](https://codility.com/demo/results/trainingR6QPGR-RG2/) _[100%]_  
 Check whether array A is a permutation.
 
 - [x] 2. [FrogRiverOne](https://codility.com/demo/results/training36R6MK-T4W/) _[100%]_  
 Find the earliest time when a frog can jump to the other side of a river.
 
-- [ ] 3. PermCheck  
+- [x] 3. [MissingInteger](https://codility.com/demo/results/training4W357F-8PD/) _[100%]_  
 Find the smallest positive integer that does not occur in a given sequence.
 
-- [ ] 4. MaxCounters  
+- [ ] 4. `RESPECTABLE` MaxCounters  
 Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
 
 ---
 
 ### Lesson 5 - _Prefix Sums_
-- [ ] 1. CountDiv
+- [ ] 1. CountDiv  
+Compute number of integers divisible by k in range [a..b].
 
-- [ ] 2. PassingCars
+- [ ] 2. PassingCars  
+Count the number of passing cars on the road.
 
-- [ ] 3. GenomicRangeQuery 
+- [ ] 3. `RESPECTABLE` GenomicRangeQuery  
+Find the minimal nucleotide from a range of sequence DNA.
 
-- [ ] 4. MinAvgTwoSlice 
+- [ ] 4. `RESPECTABLE` MinAvgTwoSlice  
+Find the minimal average of any slice containing at least two elements.
 
 ---
 
