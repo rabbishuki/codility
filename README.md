@@ -33,7 +33,7 @@ Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 - [x] 1. [MissingInteger](https://codility.com/demo/results/trainingR6QPGR-RG2/) _[100%]_  
 Check whether array A is a permutation.
 
-- [x] 2. [FrogRiverOne](https://codility.com/demo/results/trainingJQBZWX-DHY/) _[54%]_  
+- [x] 2. [FrogRiverOne](https://codility.com/demo/results/training36R6MK-T4W/) _[100%]_  
 Find the earliest time when a frog can jump to the other side of a river.
 
 - [ ] 3. PermCheck  
