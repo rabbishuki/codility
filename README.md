@@ -24,19 +24,23 @@ Count minimal number of jumps from position X to Y.
 - [x] 2. [PermMissingElem](https://codility.com/demo/results/trainingFQZA7Q-R7F/) _[100%]_  
 Find the missing element in a given permutation.
 
-- [ ] 3. TapeEquilibrium  
+- [x] 3. [TapeEquilibrium](https://codility.com/demo/results/trainingMPDUY8-W2B/) _[83%]_  
 Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 
 ---
 
 ### Lesson 4 - _Couting Elements_
-- [ ] 1. MissingInteger
+- [x] 1. [MissingInteger](https://codility.com/demo/results/trainingR6QPGR-RG2/) _[100%]_  
+Check whether array A is a permutation.
 
-- [ ] 2. FrogRiverOne
+- [x] 2. [FrogRiverOne](https://codility.com/demo/results/trainingJQBZWX-DHY/) _[54%]_  
+Find the earliest time when a frog can jump to the other side of a river.
 
-- [ ] 3. PermCheck
+- [ ] 3. PermCheck  
+Find the smallest positive integer that does not occur in a given sequence.
 
-- [ ] 4. MaxCounters
+- [ ] 4. MaxCounters  
+Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
 
 ---
 
