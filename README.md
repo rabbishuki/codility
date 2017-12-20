@@ -46,7 +46,7 @@ Calculate the values of counters after applying all alternating operations: incr
 ---
 
 ### Lesson 5 - _Prefix Sums_
-- [ ] 1. CountDiv  
+- [x] 1. [CountDiv](https://app.codility.com/demo/results/trainingDZRHMZ-EHH/) _[100%]_  
 Compute number of integers divisible by k in range [a..b].
 
 - [ ] 2. PassingCars  
