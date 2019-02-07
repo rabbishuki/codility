@@ -1,5 +1,5 @@
 # codility
-My solutions for the [codility lessons](https://codility.com/programmers/lessons)
+My solutions for the [codility tests](https://codility.com/programmers/lessons)
 
 ---
 
